@@ -1,5 +1,8 @@
-### Hi there 👋
+<h1 align="center">oi, eu sou Cossito!👋</h1>
 
+- 💻 cursando Informática para Internet
+- 📫 contato: **hc.heitorcossito@gmail.com**
+- 🕵️‍♂️ pronomes: ele/dele
 <!--
 **cossito/cossito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
